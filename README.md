@@ -1,4 +1,4 @@
-<div align="center"> <h1>noise131 --- 一个又菜又爱运维小白</h1> </div>
+<div align="center"> <h1>noise131 --- 一个又菜又爱运维的小白</h1> </div>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=noise131&label=Profile%20views&color=0e75b6&style=flat"/>
